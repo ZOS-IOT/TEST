@@ -1,5 +1,5 @@
 #include <stdio.h>
-
-int主(void)
+int main(void)
 {
+  printf ("Hello Word \r\n");
 }
